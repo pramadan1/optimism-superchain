@@ -7,10 +7,11 @@ The Optimism Superchain is a network of chains built using the OP Stack.
 It is designed to be modular, interoperable, and governed by the Optimism Collective.
 
 ## Topics
-- OP Stack basics
-- Governance and the Optimism Collective
-- Ecosystem projects
-- Rollups and scalability
+This repository includes notes on:
+
+- [OP Stack Basics](notes/op-stack-basics.md)
+- [Superchain Governance](notes/superchain-governance.md)
+- [Ecosystem Projects](notes/ecosystem-projects.md)
 
 ## Useful Links
 - [Optimism Official Website](https://www.optimism.io/)
